@@ -1,5 +1,5 @@
 body{
-  background: #1e1f24;
+  background: #white;
   color: #333;
   text-align: left;
   font-family: Roboto;
@@ -40,11 +40,6 @@ body{
 }
 
 #post{
-<<<<<<< HEAD
-  background: white;
-  padding: 1em;
-}
-=======
   padding: 1em;
 }
 
@@ -53,4 +48,3 @@ body{
   color: white;
   text-align: center;
 }
->>>>>>> footer
